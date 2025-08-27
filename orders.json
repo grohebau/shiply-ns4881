@@ -32,16 +32,16 @@
       "postal_code": "79576",
       "city": "Weil am Rhein",
       "country": "Deutschland",
-      "lat": "",
-      "lng": ""
+      "lat": "47.5969480078298",
+      "lng": "7.604964197764769"
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Dorfviertel 25",
+      "postal_code": "8190",
+      "city": "Miesenbach bei Birkfeld",
+      "country": "Österreich",
+      "lat": "47.376213608253515",
+      "lng": "15.784455455420598"
     }
   }
 }
