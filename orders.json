@@ -1,0 +1,47 @@
+{
+  "S84964": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Marcel Schwarz, Steinacker 39, 51429 Bergisch Gladbach, Deutschland",
+    "receiver": "Kilian Höfler, Dorfviertel 25, 8190 Miesenbach bei Birkfeld, Österreich",
+    "price": "4.400 €",
+    "description": "Hersteller: Maschio Gaspardo<br>Typ: PA1 Fronttank<br>S/N: MG9500213<br>Baujahr: 2021<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Kilian Höfler<br>Dorfviertel 25<br>8190 Miesenbach bei Birkfeld<br>Österreich<br>Telefon: +43 664 2513766",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27-08-2025",
+    "deliveryDate": "03-09-2025",
+    "pickup": {
+      "street": "Lustgartenstr 1",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
